@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/spring_batch
+    username: root
+    password: password
+  batch:
+    jdbc:
+      initialize-schema: always
+
+app:
+  datasource:
+    url: jdbc:mysql://localhost:3306/data_migration
+    username: root
+    password: password
