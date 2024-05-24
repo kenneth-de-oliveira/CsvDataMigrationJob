@@ -1,6 +1,6 @@
 # Csv Migration Batch - POC 
 
-This is an example of a JOB data migration system for a very simplified book inventory made using the following technologies:
+This project is a proposal for a JOB for automatic migration of lines from a CSV file to a DATABASE using the following technologies:
 
 * _Java 21_
 * _Maven 3.8.3_
